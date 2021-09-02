@@ -1,0 +1,1752 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b2ae2f78515db4095df528bcfc542a, type: 3}
+  m_Name: Conceptiode Doc
+  m_EditorClassIdentifier: 
+  diagramViewScrollPos: {x: 788.56836, y: 520.65106}
+  diagramGridUnzoomedOriginPoint: {x: -145.73381, y: -112.4648}
+  zoomMultiplier: 1.3999999
+  _nextObjectId: 0
+  nodes:
+  - instanceId: 1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 866.1041, y: 477.64853}
+    unzoomedDimensions: {x: 18.57143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.285715, y: 1.714286}
+    serializedTargetedByArrows: []
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Conceptiode
+    arrows:
+    - instanceId: 4
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: 2
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: 5
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: 3
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: A
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: 9
+      color: {r: 0, g: 0.653076, b: 0.8679245, a: 1}
+      shouldHightlight: 0
+    - instanceId: f
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: e
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: s0
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: r0
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: e2
+      zoomMultiplier: 1
+      elementAInstanceId: 1
+      elementBInstanceId: d2
+      color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 2
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 823.05615, y: 477.64865}
+    unzoomedDimensions: {x: 20.285717, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.1428585, y: 1.714286}
+    serializedTargetedByArrows:
+    - 4
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Sub-systems
+    arrows:
+    - instanceId: Z
+      zoomMultiplier: 1
+      elementAInstanceId: 2
+      elementBInstanceId: K
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: K0
+      zoomMultiplier: 1
+      elementAInstanceId: 2
+      elementBInstanceId: w
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: U0
+      zoomMultiplier: 1
+      elementAInstanceId: 2
+      elementBInstanceId: S0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: 92
+      zoomMultiplier: 1
+      elementAInstanceId: 2
+      elementBInstanceId: D1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 3
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 831.2024, y: 524.49426}
+    unzoomedDimensions: {x: 12.285716, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.142858, y: 1.714286}
+    serializedTargetedByArrows:
+    - 5
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Abstract
+    arrows:
+    - instanceId: 7
+      zoomMultiplier: 1
+      elementAInstanceId: 3
+      elementBInstanceId: 6
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: H
+      zoomMultiplier: 1
+      elementAInstanceId: 3
+      elementBInstanceId: 8
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: J
+      zoomMultiplier: 1
+      elementAInstanceId: 3
+      elementBInstanceId: I
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 6
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 792.02625, y: 564.5312}
+    unzoomedDimensions: {x: 14.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - 7
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: For who ?
+    arrows:
+    - instanceId: E
+      zoomMultiplier: 1
+      elementAInstanceId: 6
+      elementBInstanceId: D
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: F
+      zoomMultiplier: 1
+      elementAInstanceId: 6
+      elementBInstanceId: B
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: G
+      zoomMultiplier: 1
+      elementAInstanceId: 6
+      elementBInstanceId: C
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 8
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 876.15967, y: 573.59796}
+    unzoomedDimensions: {x: 16.285715, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.142858, y: 3.428572}
+    serializedTargetedByArrows:
+    - H
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'For what
+
+      purposes ?'
+    arrows:
+    - instanceId: V
+      zoomMultiplier: 1
+      elementAInstanceId: 8
+      elementBInstanceId: U
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 9
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 940.11597, y: 469.93137}
+    unzoomedDimensions: {x: 6.5714293, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 3.2857146, y: 1.714286}
+    serializedTargetedByArrows:
+    - A
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: API
+    arrows:
+    - instanceId: m
+      zoomMultiplier: 1
+      elementAInstanceId: 9
+      elementBInstanceId: g
+      color: {r: 0, g: 0.653076, b: 0.8679245, a: 1}
+      shouldHightlight: 0
+    - instanceId: u0
+      zoomMultiplier: 1
+      elementAInstanceId: 9
+      elementBInstanceId: t0
+      color: {r: 0, g: 0.653076, b: 0.8679245, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: B
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 775.8833, y: 584.531}
+    unzoomedDimensions: {x: 13.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - F
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Modders
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: C
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 804.407, y: 582.81665}
+    unzoomedDimensions: {x: 18.57143, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.285715, y: 3.428572}
+    serializedTargetedByArrows:
+    - G
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Video Game
+
+      Developpers'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: D
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 785.1019, y: 593.2112}
+    unzoomedDimensions: {x: 24.285717, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.1428585, y: 3.428572}
+    serializedTargetedByArrows:
+    - E
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Good knowledge
+
+      of Unity'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: I
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 830.99194, y: 577.3558}
+    unzoomedDimensions: {x: 25.428574, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.714287, y: 3.428572}
+    serializedTargetedByArrows:
+    - J
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Why Conceptiode
+
+      exists ?'
+    arrows:
+    - instanceId: X
+      zoomMultiplier: 1
+      elementAInstanceId: I
+      elementBInstanceId: W
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: r
+      zoomMultiplier: 1
+      elementAInstanceId: I
+      elementBInstanceId: p
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: 80
+      zoomMultiplier: 1
+      elementAInstanceId: I
+      elementBInstanceId: O
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: K
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 759.2666, y: 542.38965}
+    unzoomedDimensions: {x: 21.428574, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.714287, y: 1.714286}
+    serializedTargetedByArrows:
+    - Z
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Dependencies
+    arrows:
+    - instanceId: N
+      zoomMultiplier: 1
+      elementAInstanceId: K
+      elementBInstanceId: M
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: I1
+      zoomMultiplier: 1
+      elementAInstanceId: K
+      elementBInstanceId: H1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: M
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 728.5145, y: 548.9481}
+    unzoomedDimensions: {x: 17.428574, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.714287, y: 1.714286}
+    serializedTargetedByArrows:
+    - N
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Unity IMGUI
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: O
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 788.1681, y: 627.06226}
+    unzoomedDimensions: {x: 20.857145, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 5.1428576}
+    serializedTargetedByArrows:
+    - 80
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Doens''t use
+
+      experimental
+
+      dependencies'
+    arrows:
+    - instanceId: R
+      zoomMultiplier: 1
+      elementAInstanceId: O
+      elementBInstanceId: Q
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: T
+      zoomMultiplier: 1
+      elementAInstanceId: O
+      elementBInstanceId: S
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: K1
+      zoomMultiplier: 1
+      elementAInstanceId: O
+      elementBInstanceId: J1
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: Q
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 767.8738, y: 650.0033}
+    unzoomedDimensions: {x: 20.857145, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 3.428572}
+    serializedTargetedByArrows:
+    - R
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: '"The definitive
+
+      graph editor"'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: S
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 803.8169, y: 651.2047}
+    unzoomedDimensions: {x: 28.285717, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 14.1428585, y: 3.428572}
+    serializedTargetedByArrows:
+    - T
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Less major changes
+
+      in the future'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: U
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 885.83093, y: 595.63513}
+    unzoomedDimensions: {x: 17.428574, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.714287, y: 5.1428576}
+    serializedTargetedByArrows:
+    - V
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Creating
+
+      custom
+
+      graph easier'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: W
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 825.2418, y: 628.9933}
+    unzoomedDimensions: {x: 24.285717, y: 13.714288}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.1428585, y: 6.857144}
+    serializedTargetedByArrows:
+    - X
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Allows to create
+
+      diagrams not only
+
+      for games but
+
+      for
+      any projects'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: a
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 620.95703, y: 425.87933}
+    unzoomedDimensions: {x: 20.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - N1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Multi Selection
+    arrows:
+    - instanceId: l2
+      zoomMultiplier: 1
+      elementAInstanceId: a
+      elementBInstanceId: A0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: b
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 626.5282, y: 411.8742}
+    unzoomedDimensions: {x: 14.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - L1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Selection
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: c
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 634.7621, y: 486.88657}
+    unzoomedDimensions: {x: 8.857143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 4.4285717, y: 1.714286}
+    serializedTargetedByArrows:
+    - e0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Node
+    arrows:
+    - instanceId: F1
+      zoomMultiplier: 1
+      elementAInstanceId: c
+      elementBInstanceId: E1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: x1
+      zoomMultiplier: 1
+      elementAInstanceId: c
+      elementBInstanceId: w1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: d
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 634.7621, y: 511.29852}
+    unzoomedDimensions: {x: 8.857143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 4.4285717, y: 1.714286}
+    serializedTargetedByArrows:
+    - f0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Arrow
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: e
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 945.4192, y: 558.159}
+    unzoomedDimensions: {x: 16.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - f
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Conclusion
+    arrows:
+    - instanceId: 60
+      zoomMultiplier: 1
+      elementAInstanceId: e
+      elementBInstanceId: 50
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: C0
+      zoomMultiplier: 1
+      elementAInstanceId: e
+      elementBInstanceId: B0
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: F0
+      zoomMultiplier: 1
+      elementAInstanceId: e
+      elementBInstanceId: D0
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: N0
+      zoomMultiplier: 1
+      elementAInstanceId: e
+      elementBInstanceId: M0
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: P0
+      zoomMultiplier: 1
+      elementAInstanceId: e
+      elementBInstanceId: O0
+      color: {r: 0.9811321, g: 0.023916764, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: g
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 969.9763, y: 462.0104}
+    unzoomedDimensions: {x: 14.000002, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.000001, y: 3.428572}
+    serializedTargetedByArrows:
+    - m
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Class
+
+      Diagrams'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: h
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 605.1809, y: 569.37054}
+    unzoomedDimensions: {x: 14.57143, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.285715, y: 5.1428576}
+    serializedTargetedByArrows:
+    - m0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Custom
+
+      Reflection
+
+      System'
+    arrows:
+    - instanceId: p1
+      zoomMultiplier: 1
+      elementAInstanceId: h
+      elementBInstanceId: o1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: r1
+      zoomMultiplier: 1
+      elementAInstanceId: h
+      elementBInstanceId: q1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: i
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 694.87854, y: 510.39056}
+    unzoomedDimensions: {x: 13.428573, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.7142863, y: 3.428572}
+    serializedTargetedByArrows:
+    - L0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Diagram
+
+      Elements'
+    arrows:
+    - instanceId: Z0
+      zoomMultiplier: 1
+      elementAInstanceId: i
+      elementBInstanceId: Y0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: d0
+      zoomMultiplier: 1
+      elementAInstanceId: i
+      elementBInstanceId: c0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: n
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 627.37805, y: 418.7741}
+    unzoomedDimensions: {x: 13.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - M1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Dragging
+    arrows:
+    - instanceId: k2
+      zoomMultiplier: 1
+      elementAInstanceId: n
+      elementBInstanceId: A0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: o
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 622.1675, y: 433.77405}
+    unzoomedDimensions: {x: 18.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - O1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Arrow Tracer
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: p
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 862.7582, y: 633.0454}
+    unzoomedDimensions: {x: 27.714289, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - r
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Why Conceptiode ?
+    arrows:
+    - instanceId: z
+      zoomMultiplier: 1
+      elementAInstanceId: p
+      elementBInstanceId: x
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    - instanceId: 00
+      zoomMultiplier: 1
+      elementAInstanceId: p
+      elementBInstanceId: y
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: t
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 641.76013, y: 356.90533}
+    unzoomedDimensions: {x: 20.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - V1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Scroller Scope
+    arrows:
+    - instanceId: j1
+      zoomMultiplier: 1
+      elementAInstanceId: t
+      elementBInstanceId: v
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: k1
+      zoomMultiplier: 1
+      elementAInstanceId: t
+      elementBInstanceId: u
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: u
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 600.46606, y: 363.9641}
+    unzoomedDimensions: {x: 29.428576, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 14.714288, y: 1.714286}
+    serializedTargetedByArrows:
+    - k1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Node Dragging Scroll
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: v
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 602.81885, y: 350.43475}
+    unzoomedDimensions: {x: 24.285717, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.1428585, y: 1.714286}
+    serializedTargetedByArrows:
+    - j1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Auto-center view
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: w
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 727.7615, y: 503.03757}
+    unzoomedDimensions: {x: 12.285716, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.142858, y: 1.714286}
+    serializedTargetedByArrows:
+    - K0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Diagram
+    arrows:
+    - instanceId: L0
+      zoomMultiplier: 1
+      elementAInstanceId: w
+      elementBInstanceId: i
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: W0
+      zoomMultiplier: 1
+      elementAInstanceId: w
+      elementBInstanceId: V0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: x
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 849.4053, y: 651.5747}
+    unzoomedDimensions: {x: 22.000002, y: 17.142859}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.000001, y: 8.571429}
+    serializedTargetedByArrows:
+    - z
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Concept:
+
+      an abstract idea
+
+      or
+
+      representation
+
+      of
+      a system'
+    arrows:
+    - instanceId: 30
+      zoomMultiplier: 1
+      elementAInstanceId: x
+      elementBInstanceId: 20
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: y
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 880.9249, y: 653.15625}
+    unzoomedDimensions: {x: 28.285717, y: 13.714288}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 14.1428585, y: 6.857144}
+    serializedTargetedByArrows:
+    - 00
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Iode:
+
+      french word of iodine,
+
+      a mineral essential
+
+      for
+      life'
+    arrows:
+    - instanceId: 40
+      zoomMultiplier: 1
+      elementAInstanceId: y
+      elementBInstanceId: 20
+      color: {r: 1, g: 0.77135277, b: 0, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 20
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 864.42126, y: 686.7926}
+    unzoomedDimensions: {x: 28.285717, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 14.1428585, y: 5.1428576}
+    serializedTargetedByArrows:
+    - 30
+    - 40
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Shapes every ideas
+
+      and make working
+
+      systems from them'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 50
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 978.77905, y: 580.0587}
+    unzoomedDimensions: {x: 27.714289, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.857144, y: 5.1428576}
+    serializedTargetedByArrows:
+    - 60
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Make a complete,
+
+      powerful and reliable
+
+      editor extension'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 90
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 617.0277, y: 442.87982}
+    unzoomedDimensions: {x: 24.285717, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.1428585, y: 1.714286}
+    serializedTargetedByArrows:
+    - X1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Contextual Menu
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: A0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 584.71423, y: 422.49048}
+    unzoomedDimensions: {x: 20.285717, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.1428585, y: 1.714286}
+    serializedTargetedByArrows:
+    - k2
+    - l2
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Multi Dragging
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: B0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 920.13916, y: 583.7068}
+    unzoomedDimensions: {x: 21.428574, y: 10.285715}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.714287, y: 5.1428576}
+    serializedTargetedByArrows:
+    - C0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Push the limits
+
+      of game design
+
+      even further'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: D0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 937.15625, y: 602.8779}
+    unzoomedDimensions: {x: 30.000004, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 15.000002, y: 1.714286}
+    serializedTargetedByArrows:
+    - F0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Unlimited possibiliities
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: G0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 694.86316, y: 409.3636}
+    unzoomedDimensions: {x: 9.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 4.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - P1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Inputs
+    arrows:
+    - instanceId: n0
+      zoomMultiplier: 1
+      elementAInstanceId: G0
+      elementBInstanceId: H0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: o0
+      zoomMultiplier: 1
+      elementAInstanceId: G0
+      elementBInstanceId: I0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: p0
+      zoomMultiplier: 1
+      elementAInstanceId: G0
+      elementBInstanceId: J0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: H0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 669.14233, y: 397.76367}
+    unzoomedDimensions: {x: 14.57143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.285715, y: 1.714286}
+    serializedTargetedByArrows:
+    - n0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Keyboard
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: I0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 672.245, y: 409.46442}
+    unzoomedDimensions: {x: 11.1428585, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 5.5714293, y: 1.714286}
+    serializedTargetedByArrows:
+    - o0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Mouse
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: J0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 671.68506, y: 419.0644}
+    unzoomedDimensions: {x: 10.57143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 5.285715, y: 1.714286}
+    serializedTargetedByArrows:
+    - p0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Events
+    arrows:
+    - instanceId: L1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: b
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: M1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: n
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: N1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: a
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: O1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: o
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: R1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: 71
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: X1
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: 90
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: B2
+      zoomMultiplier: 1
+      elementAInstanceId: J0
+      elementBInstanceId: A2
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: M0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 988.2974, y: 544.1321}
+    unzoomedDimensions: {x: 21.428574, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.714287, y: 1.714286}
+    serializedTargetedByArrows:
+    - N0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Make modules
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: O0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 897.27795, y: 560.64923}
+    unzoomedDimensions: {x: 27.14286, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.57143, y: 3.428572}
+    serializedTargetedByArrows:
+    - P0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Create new types of
+
+      editor GUI'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: Q0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 640.95337, y: 314.14294}
+    unzoomedDimensions: {x: 19.714289, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - h1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Backgrounds
+    arrows:
+    - instanceId: a1
+      zoomMultiplier: 1
+      elementAInstanceId: Q0
+      elementBInstanceId: Z1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: c1
+      zoomMultiplier: 1
+      elementAInstanceId: Q0
+      elementBInstanceId: b1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: R0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 641.8778, y: 330.04767}
+    unzoomedDimensions: {x: 18.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - i1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Foregrounds
+    arrows:
+    - instanceId: f1
+      zoomMultiplier: 1
+      elementAInstanceId: R0
+      elementBInstanceId: d1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: g1
+      zoomMultiplier: 1
+      elementAInstanceId: R0
+      elementBInstanceId: e1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: S0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 732.12683, y: 390.41614}
+    unzoomedDimensions: {x: 8.285715, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 4.1428576, y: 1.714286}
+    serializedTargetedByArrows:
+    - U0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: View
+    arrows:
+    - instanceId: P1
+      zoomMultiplier: 1
+      elementAInstanceId: S0
+      elementBInstanceId: G0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: U1
+      zoomMultiplier: 1
+      elementAInstanceId: S0
+      elementBInstanceId: X0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: V0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 694.9374, y: 484.21384}
+    unzoomedDimensions: {x: 9.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 4.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - W0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Zoom
+    arrows:
+    - instanceId: b0
+      zoomMultiplier: 1
+      elementAInstanceId: V0
+      elementBInstanceId: a0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: X0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 678.00354, y: 343.5838}
+    unzoomedDimensions: {x: 12.285716, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.142858, y: 1.714286}
+    serializedTargetedByArrows:
+    - U1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Layouts
+    arrows:
+    - instanceId: V1
+      zoomMultiplier: 1
+      elementAInstanceId: X0
+      elementBInstanceId: t
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: h1
+      zoomMultiplier: 1
+      elementAInstanceId: X0
+      elementBInstanceId: Q0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: i1
+      zoomMultiplier: 1
+      elementAInstanceId: X0
+      elementBInstanceId: R0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: Y0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 662.772, y: 531.3014}
+    unzoomedDimensions: {x: 12.857144, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.428572, y: 1.714286}
+    serializedTargetedByArrows:
+    - Z0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: For Editor
+    arrows:
+    - instanceId: i0
+      zoomMultiplier: 1
+      elementAInstanceId: Y0
+      elementBInstanceId: g0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: j0
+      zoomMultiplier: 1
+      elementAInstanceId: Y0
+      elementBInstanceId: h0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: l0
+      zoomMultiplier: 1
+      elementAInstanceId: Y0
+      elementBInstanceId: k0
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: a0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 667.2919, y: 484.10092}
+    unzoomedDimensions: {x: 11.1428585, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 5.5714293, y: 1.714286}
+    serializedTargetedByArrows:
+    - b0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Modes
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: c0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 655.41187, y: 499.70102}
+    unzoomedDimensions: {x: 16.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - d0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: For Runtime
+    arrows:
+    - instanceId: e0
+      zoomMultiplier: 1
+      elementAInstanceId: c0
+      elementBInstanceId: c
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: f0
+      zoomMultiplier: 1
+      elementAInstanceId: c0
+      elementBInstanceId: d
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: g0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 630.20154, y: 527.0442}
+    unzoomedDimensions: {x: 16.285715, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.142858, y: 1.714286}
+    serializedTargetedByArrows:
+    - i0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Node Editor
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: h0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 629.9617, y: 535.64404}
+    unzoomedDimensions: {x: 16.285715, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.142858, y: 1.714286}
+    serializedTargetedByArrows:
+    - j0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Arrow Editor
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: k0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 631.4935, y: 555.2028}
+    unzoomedDimensions: {x: 21.428574, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.714287, y: 1.714286}
+    serializedTargetedByArrows:
+    - l0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Layout System
+    arrows:
+    - instanceId: m0
+      zoomMultiplier: 1
+      elementAInstanceId: k0
+      elementBInstanceId: h
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: t1
+      zoomMultiplier: 1
+      elementAInstanceId: k0
+      elementBInstanceId: s1
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: r0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 853.1041, y: 400.93744}
+    unzoomedDimensions: {x: 20.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - s0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Implementation
+    arrows:
+    - instanceId: 21
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: 11
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 31
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: v0
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 41
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: w0
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 81
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: z0
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 91
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: 01
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: B1
+      zoomMultiplier: 1
+      elementAInstanceId: r0
+      elementBInstanceId: A1
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: t0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 968.094, y: 477.89316}
+    unzoomedDimensions: {x: 18.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - u0
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Descriptions
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: v0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 854.2118, y: 352.30695}
+    unzoomedDimensions: {x: 19.714289, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - 31
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Editor Window
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: w0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 876.9109, y: 361.20404}
+    unzoomedDimensions: {x: 13.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - 41
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Inspector
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: z0
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 889.3937, y: 394.5083}
+    unzoomedDimensions: {x: 16.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - 81
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: For Runtime
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 01
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 889.1952, y: 407.02936}
+    unzoomedDimensions: {x: 12.857144, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.428572, y: 1.714286}
+    serializedTargetedByArrows:
+    - 91
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: For Editor
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 11
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 836.6478, y: 359.88837}
+    unzoomedDimensions: {x: 15.714288, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 7.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - 21
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 3D Scene
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 51
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 571.87354, y: 372.15338}
+    unzoomedDimensions: {x: 18.000002, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.000001, y: 3.428572}
+    serializedTargetedByArrows:
+    - T1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Arrow Tracer
+
+      Preview'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 61
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 571.095, y: 393.2201}
+    unzoomedDimensions: {x: 20.857145, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 10.428573, y: 3.428572}
+    serializedTargetedByArrows:
+    - S1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Multi Selection
+
+      Rectangle'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 71
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 607.89453, y: 386.56995}
+    unzoomedDimensions: {x: 23.14286, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.57143, y: 1.714286}
+    serializedTargetedByArrows:
+    - R1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Customizable UI
+    arrows:
+    - instanceId: S1
+      zoomMultiplier: 1
+      elementAInstanceId: 71
+      elementBInstanceId: 61
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    - instanceId: T1
+      zoomMultiplier: 1
+      elementAInstanceId: 71
+      elementBInstanceId: 51
+      color: {r: 0, g: 0.7169812, b: 0.13429739, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: A1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 788.51587, y: 382.99628}
+    unzoomedDimensions: {x: 19.142859, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.571429, y: 3.428572}
+    serializedTargetedByArrows:
+    - B1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Features
+
+      To Implement'
+    arrows:
+    - instanceId: 02
+      zoomMultiplier: 1
+      elementAInstanceId: A1
+      elementBInstanceId: z1
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 22
+      zoomMultiplier: 1
+      elementAInstanceId: A1
+      elementBInstanceId: 12
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 42
+      zoomMultiplier: 1
+      elementAInstanceId: A1
+      elementBInstanceId: 32
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: D1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 721.90405, y: 463.03702}
+    unzoomedDimensions: {x: 23.714289, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - 92
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Responsabilities
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: E1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 594.7406, y: 479.23337}
+    unzoomedDimensions: {x: 24.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - F1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Parent Enumerator
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: H1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 730.8302, y: 536.8425}
+    unzoomedDimensions: {x: 11.714287, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 5.8571434, y: 1.714286}
+    serializedTargetedByArrows:
+    - I1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Unity UI
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: J1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 783.34644, y: 665.61646}
+    unzoomedDimensions: {x: 25.428574, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 12.714287, y: 1.714286}
+    serializedTargetedByArrows:
+    - K1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Better compatibility
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: Z1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 600.28674, y: 309.85718}
+    unzoomedDimensions: {x: 31.71429, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 15.857145, y: 1.714286}
+    serializedTargetedByArrows:
+    - a1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Scrollable Background
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: b1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 605.33435, y: 317.47607}
+    unzoomedDimensions: {x: 26.000004, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.000002, y: 1.714286}
+    serializedTargetedByArrows:
+    - c1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Static Background
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: d1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 599.4967, y: 326.2381}
+    unzoomedDimensions: {x: 31.71429, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 15.857145, y: 1.714286}
+    serializedTargetedByArrows:
+    - f1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Scrollable Foregrounds
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: e1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 604.78235, y: 334.80963}
+    unzoomedDimensions: {x: 26.000004, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.000002, y: 1.714286}
+    serializedTargetedByArrows:
+    - g1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Static Foregrounds
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: o1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 578.78125, y: 579.5707}
+    unzoomedDimensions: {x: 13.428573, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 6.7142863, y: 1.714286}
+    serializedTargetedByArrows:
+    - p1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Attributes
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: q1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 562.71436, y: 565.9039}
+    unzoomedDimensions: {x: 30.57143, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 15.285715, y: 1.714286}
+    serializedTargetedByArrows:
+    - r1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Excluded Assemblies
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: s1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 598.0348, y: 547.0283}
+    unzoomedDimensions: {x: 16.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - t1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Dictionaries
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: w1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 595.02625, y: 494.94785}
+    unzoomedDimensions: {x: 23.714289, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.857144, y: 1.714286}
+    serializedTargetedByArrows:
+    - x1
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Arrow Enumerator
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: z1
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 806.63306, y: 367.99615}
+    unzoomedDimensions: {x: 16.857145, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 8.428573, y: 1.714286}
+    serializedTargetedByArrows:
+    - 02
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Redo/Undo
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 12
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 770.92773, y: 367.11383}
+    unzoomedDimensions: {x: 22.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - 22
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Save & Dirtying
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 32
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 789.19995, y: 353.34003}
+    unzoomedDimensions: {x: 19.142859, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 9.571429, y: 1.714286}
+    serializedTargetedByArrows:
+    - 42
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Optimizations
+    arrows:
+    - instanceId: 62
+      zoomMultiplier: 1
+      elementAInstanceId: 32
+      elementBInstanceId: 52
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    - instanceId: 82
+      zoomMultiplier: 1
+      elementAInstanceId: 32
+      elementBInstanceId: 72
+      color: {r: 0.44216707, g: 0, b: 0.6901961, a: 1}
+      shouldHightlight: 0
+    textModeEnabled: 0
+  - instanceId: 52
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 801.88416, y: 337.81378}
+    unzoomedDimensions: {x: 22.000002, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.000001, y: 1.714286}
+    serializedTargetedByArrows:
+    - 62
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Levels Of Detail
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: 72
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 772.2001, y: 335.6032}
+    unzoomedDimensions: {x: 23.14286, y: 6.857144}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 11.57143, y: 3.428572}
+    serializedTargetedByArrows:
+    - 82
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: 'Hiding Offscreen
+
+      Elements'
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: A2
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 612.97144, y: 450.80084}
+    unzoomedDimensions: {x: 27.14286, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 13.57143, y: 1.714286}
+    serializedTargetedByArrows:
+    - B2
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Changes Detection
+    arrows: []
+    textModeEnabled: 0
+  - instanceId: d2
+    zoomMultiplier: 1.3999999
+    unzoomedPosition: {x: 921.7195, y: 426.5119}
+    unzoomedDimensions: {x: 11.1428585, y: 3.428572}
+    unzoomedOriginPoint: {x: 0, y: 0}
+    unzoomedGrabPoint: {x: 5.5714293, y: 1.714286}
+    serializedTargetedByArrows:
+    - e2
+    isDraggable: 1
+    textColor: {r: 0, g: 0, b: 0, a: 1}
+    text: Tutorial
+    arrows: []
+    textModeEnabled: 0

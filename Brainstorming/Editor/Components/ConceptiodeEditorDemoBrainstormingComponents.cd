@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.BrainstormingNode">
+    <Position X="1.75" Y="2.75" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAEECEAAAgAAAAAIAAAQgAAIAAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingNode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="textColor" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="arrows" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.BrainstormingNodeEditor">
+    <Position X="1.75" Y="6.75" Width="8.5" />
+    <AssociationLine Name="castedTarget" Type="ConceptiodeDemoEditor.Brainstorming.BrainstormingNode">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIEAAAAAAAAACEAQAAAAQAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingNode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="castedTarget" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.PropertyDrawerBrainstormingNode">
+    <Position X="1.75" Y="9.5" Width="8.5" />
+    <AssociationLine Name="instanceId" Type="UnityEditor.SerializedProperty" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="10.188" />
+        <Point X="13.022" Y="10.188" />
+        <Point X="13.022" Y="5.562" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="textColor" Type="UnityEditor.SerializedProperty" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="9.812" />
+        <Point X="11.897" Y="9.812" />
+        <Point X="11.897" Y="5.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAADAAAAAAAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingNode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="instanceId" />
+      <Field Name="textColor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.BrainstormingContextualMenu">
+    <Position X="27.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingContextualMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.BrainstormingArrow">
+    <Position X="17.25" Y="2.75" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAIAAEABAAAAgAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingArrow.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="color" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.BrainstormingArrowEditor">
+    <Position X="17.25" Y="6.25" Width="8.5" />
+    <AssociationLine Name="color" Type="UnityEditor.SerializedProperty" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="17.25" Y="6.562" />
+        <Point X="15.868" Y="6.562" />
+        <Point X="15.868" Y="5.562" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.079" Y="0.053" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAQAAAAAACAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingArrow.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="color" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConceptiodeDemoEditor.Brainstorming.PropertyDrawerBrainstormingArrow">
+    <Position X="17.25" Y="9.5" Width="8.5" />
+    <AssociationLine Name="instanceId" Type="UnityEditor.SerializedProperty" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="17.25" Y="9.825" />
+        <Point X="15.007" Y="9.825" />
+        <Point X="15.007" Y="5.562" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="color" Type="UnityEditor.SerializedProperty" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="17.25" Y="10.213" />
+        <Point X="13.882" Y="10.213" />
+        <Point X="13.882" Y="5.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAACAAADAAAAAAAA=</HashCode>
+      <FileName>Assets\Louis8257\ConceptiodeDemo\Brainstorming\Editor\Components\BrainstormingArrow.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="instanceId" />
+      <Field Name="color" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UnityEditor.SerializedProperty" Collapsed="true">
+    <Position X="11.5" Y="5" Width="4.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="UnityEngine.Color" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
